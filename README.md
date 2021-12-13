@@ -1,7 +1,7 @@
 
 ## Description
 
-Dealing with class imbalance in customer classification problems. This example focuses on using preprocessing techniques to solve the problem. In particular it has:
+This is an introductory example to class imbalance in customer classification problems. It mainly focuses on using preprocessing techniques to solve the problem. In particular it covers:
 
 - Feature Selector
 - Dummy Transformer
@@ -11,7 +11,7 @@ Dealing with class imbalance in customer classification problems. This example f
 - SMOTE
 - Random UnderSampler
 
-It uses Random Forest and Logistic Regression to solve a binary classification problem. The code supports K-fold cross validation and hyper-parameter tuning.
+Random Forest and Logistic Regression are used to solve a binary classification problem. The code supports K-fold cross validation and hyper-parameter tuning.
 
 ## Main Program Execution
 
