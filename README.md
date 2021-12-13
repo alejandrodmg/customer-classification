@@ -23,7 +23,7 @@ Please open a clean terminal window, set your directory to customer-classificati
 
 Running the code returns a nicely formatted classification report.
 
-=> Examples:
+Examples:
 
 ```
 ~/$ python3 customer_classification.py default
