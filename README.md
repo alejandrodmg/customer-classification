@@ -17,9 +17,9 @@ It uses Random Forest and Logistic Regression to solve a binary classification p
 
 Please open a clean terminal window, set your directory to customer-classification/customer_classification and run the file `customer_classification.py` followed by one of these arguments:
 
-(i) `default`: Train, test and evaluate Random Forest and Logistic Regression using a default configuration.
-(ii) `cv`: Perform K-fold cross validation on training data using Random Forest and Logistic Regression.
-(iii) `tuning`: Perform parameter tuning for Random Forest and Logistic Regression while cross-validating the models, it requires setting the hyper-parameters in config/hyper-params.yaml. 
+- (i) `default`: Train, test and evaluate Random Forest and Logistic Regression using a default configuration.
+- (ii) `cv`: Perform K-fold cross validation on training data using Random Forest and Logistic Regression.
+- (iii) `tuning`: Perform parameter tuning for Random Forest and Logistic Regression while cross-validating the models, it requires setting the hyper-parameters in config/hyper-params.yaml. 
 
 Running the code returns a nicely formatted classification report.
 
