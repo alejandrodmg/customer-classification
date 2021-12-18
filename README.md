@@ -1,7 +1,7 @@
 
 ## Description
 
-This is an introductory example to class imbalance in customer classification problems. It mainly focuses on using preprocessing techniques to solve the problem. In particular it covers:
+This is an into example to class imbalance in customer classification problems. It mainly focuses on using preprocessing techniques to solve the problem. In particular it covers:
 
 - Feature Selector
 - Dummy Transformer
